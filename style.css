@@ -1,0 +1,22 @@
+body {
+    background-color: blue;
+}
+
+p,span {
+    padding-top: 10;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+#Score {
+    font-size: 35px;
+    margin-left: 20px;
+
+}
+
+
+#timer{
+    font-size: 35px;
+    margin-right: 20px;
+    float: right;
+}
